@@ -1,5 +1,7 @@
 # Apartment-Listing-Coding-Challenge
 This repository calculates the size of the social network of a word using the framework that Levenshtein distance.
+The social network of a word is defined as all the words that are friends with a friend of words or friend of a friend of words and so on so forth. A friend for two words is defined as another word that has a Levenshtein distance of 1 away from the other word.
+
 
 This repository contains three python files and other txt files:
 
